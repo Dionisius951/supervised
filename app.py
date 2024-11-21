@@ -1,7 +1,6 @@
 import streamlit as st
-import numpy as np
 import joblib
-from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.preprocessing import LabelEncoder
 import pandas as pd
 
 # Load model dan scaler
